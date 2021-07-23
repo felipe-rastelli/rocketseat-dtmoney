@@ -1,10 +1,6 @@
 # Rocketseat - dtmoney
 
 A project to learn ReactJs basics from Ignite course. A simple financial transactions application.
-<p>&nbsp;</p>
-
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
